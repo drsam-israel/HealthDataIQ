@@ -1,0 +1,11 @@
+concept_id,clinical_concept,snomed_ct,icd10,icd11,loinc,rxnorm
+1,Sepsis,91302008,A41.9,1G40,, 
+2,Hypertension,38341003,I10,BA00,,
+3,Diabetes Mellitus,73211009,E11,5A11,,
+4,Heart Failure,84114007,I50,BD10,,
+5,Acute Kidney Injury,14669001,N17,GB60,,
+6,White Blood Cell Count,,,,"6690-2",
+7,Lactate Measurement,,,,"2524-7",
+8,Hemoglobin,,,,"718-7",
+9,Metformin,,,,,860975
+10,Aspirin,,,,,1191

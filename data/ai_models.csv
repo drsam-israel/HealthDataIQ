@@ -1,0 +1,6 @@
+model_id,model_name,risk_tier,accuracy,bias_score,drift_score,explainability_score,status
+1,SepsisIntel AI,High,90.2,0.08,0.04,0.95,Approved
+2,DiaIntel AI,Medium,88.7,0.06,0.03,0.92,Approved
+3,CardioIntel AI,Medium,91.5,0.05,0.02,0.94,Approved
+4,Operations Forecast AI,Low,87.3,0.03,0.05,0.90,Approved
+5,Executive Risk AI,High,89.1,0.07,0.04,0.93,Under Review

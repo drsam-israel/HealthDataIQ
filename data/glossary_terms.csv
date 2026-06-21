@@ -1,0 +1,11 @@
+term_id,term_name,definition,category,owner,status
+1,Length of Stay,Total duration of patient hospitalization,Operations,Operations Team,Active
+2,Readmission,Patient returns within 30 days of discharge,Quality,Quality Management,Active
+3,Mortality Rate,Percentage of patients who die during care,Clinical,Clinical Informatics,Active
+4,ICU Utilization,Percentage occupancy of ICU beds,Operations,Operations Team,Active
+5,Sepsis,Life-threatening organ dysfunction caused by infection,Clinical,Clinical Informatics,Active
+6,FHIR,Fast Healthcare Interoperability Resources,Interoperability,IT Services,Active
+7,SNOMED CT,Systematized Nomenclature of Medicine Clinical Terms,Terminology,Clinical Informatics,Active
+8,LOINC,Logical Observation Identifiers Names and Codes,Terminology,Laboratory Services,Active
+9,Data Steward,Individual responsible for data quality and governance,Governance,Data Governance Office,Active
+10,AI Governance,Framework for oversight of AI systems,AI Governance,AI Governance Office,Active

@@ -1,0 +1,11 @@
+kpi_id,kpi_name,category,definition,target_value,frequency,owner
+1,Mortality Rate,Clinical,Percentage of patients who die during care,5%,Monthly,Clinical Informatics
+2,Readmission Rate,Quality,Percentage of patients readmitted within 30 days,10%,Monthly,Quality Management
+3,Average Length of Stay,Operations,Average duration of hospitalization,4 Days,Monthly,Operations
+4,ICU Utilization,Operations,Percentage occupancy of ICU beds,85%,Daily,Operations
+5,ED Wait Time,Operations,Average emergency department waiting time,30 Minutes,Daily,Operations
+6,Bed Occupancy,Operations,Percentage occupancy of available beds,90%,Daily,Operations
+7,Sepsis Rate,Clinical,Percentage of sepsis cases among admissions,<5%,Monthly,Clinical Informatics
+8,Claims Denial Rate,Financial,Percentage of denied claims,<3%,Monthly,Finance
+9,Revenue per Encounter,Financial,Average revenue generated per encounter,$500,Monthly,Finance
+10,AI Model Accuracy,AI Governance,Accuracy of deployed AI models,90%,Monthly,AI Governance

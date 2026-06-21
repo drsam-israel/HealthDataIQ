@@ -1,0 +1,11 @@
+element_id,element_name,domain,data_type,owner,status
+1,Patient_ID,Patient Administration,String,Health Information Management,Active
+2,Age,Demographics,Integer,Clinical Informatics,Active
+3,Gender,Demographics,String,Clinical Informatics,Active
+4,Lactate,Laboratory,Numeric,Laboratory Services,Active
+5,WBC,Laboratory,Numeric,Laboratory Services,Active
+6,Heart_Rate,Vital Signs,Numeric,Nursing Services,Active
+7,Respiratory_Rate,Vital Signs,Numeric,Nursing Services,Active
+8,MAP,Vital Signs,Numeric,Nursing Services,Active
+9,Length_of_Stay,Operations,Numeric,Operations,Active
+10,Readmission_Flag,Quality,String,Quality Management,Active

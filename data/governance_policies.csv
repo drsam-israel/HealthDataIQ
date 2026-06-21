@@ -1,0 +1,11 @@
+policy_id,policy_name,owner,review_cycle,status
+1,Data Governance Policy,Data Governance Office,Annual,Active
+2,Metadata Management Policy,Clinical Informatics,Annual,Active
+3,FHIR Interoperability Policy,IT Services,Semi-Annual,Active
+4,Data Quality Policy,Quality Management,Quarterly,Active
+5,Data Stewardship Policy,Data Governance Office,Annual,Active
+6,Information Security Policy,Cybersecurity Team,Annual,Active
+7,Clinical Documentation Policy,Clinical Informatics,Annual,Active
+8,AI Governance Policy,AI Governance Office,Semi-Annual,Active
+9,Model Validation Policy,AI Governance Office,Quarterly,Active
+10,Privacy and Confidentiality Policy,Compliance Office,Annual,Active

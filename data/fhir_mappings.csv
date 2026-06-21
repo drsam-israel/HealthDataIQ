@@ -1,0 +1,11 @@
+mapping_id,data_element,fhir_resource,fhir_element,mapping_type
+1,Patient_ID,Patient,identifier,Direct
+2,Gender,Patient,gender,Direct
+3,Age,Patient,birthDate,Derived
+4,Heart_Rate,Observation,valueQuantity,Direct
+5,Respiratory_Rate,Observation,valueQuantity,Direct
+6,MAP,Observation,valueQuantity,Direct
+7,WBC,Observation,valueQuantity,Direct
+8,Lactate,Observation,valueQuantity,Direct
+9,Readmission_Flag,Encounter,status,Derived
+10,Length_of_Stay,Encounter,length,Derived

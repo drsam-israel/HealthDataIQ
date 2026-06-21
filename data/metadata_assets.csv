@@ -1,0 +1,13 @@
+asset_id,asset_name,asset_type,owner,domain,status
+1,Patient_ID,Data Element,Health Information Management,Patient Administration,Active
+2,Age,Data Element,Clinical Informatics,Demographics,Active
+3,Length of Stay,Business Term,Operations Team,Operations,Active
+4,Readmission Rate,KPI,Quality Management,Quality,Active
+5,Patient Resource,FHIR Resource,IT Services,Interoperability,Active
+6,Observation Resource,FHIR Resource,IT Services,Interoperability,Active
+7,Sepsis,SNOMED Concept,Clinical Informatics,Terminology,Active
+8,Data Governance Policy,Policy,Data Governance Office,Governance,Active
+9,AI Governance Policy,Policy,AI Governance Office,Governance,Active
+10,SepsisIntel AI,AI Model,AI Governance Office,AI Governance,Approved
+11,DiaIntel AI,AI Model,AI Governance Office,AI Governance,Approved
+12,CardioIntel AI,AI Model,AI Governance Office,AI Governance,Approved
