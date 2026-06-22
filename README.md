@@ -27,15 +27,10 @@ Its guiding philosophy is simple:
 
 ---
 
-# 🚀 Live Demo
+## 🌐 Streamlit Live Demo
 
-## 🌐 Streamlit Application
+https://healthdataiq-p97uqv8wcdmtopepgctywg.streamlit.app/
 
-**Launch the app**
-
-```
-https://YOUR-STREAMLIT-LINK.streamlit.app
-```
 ---
 
 # 🏗 Enterprise Master Architecture
